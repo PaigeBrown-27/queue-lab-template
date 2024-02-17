@@ -1,3 +1,4 @@
+
 class Queue():
     def __init__(self):
         self.cards = []
@@ -12,3 +13,5 @@ class Queue():
 if __name__ == '__main__':
     #REMOVE PASS AND YOUR CODE GOES HERE
     pass
+
+deck = queue.Queue()
